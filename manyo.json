@@ -23,6 +23,10 @@
  "license": {
   "text": "CC0 1.0"
  },
+ "translation": {
+  "count": 4516,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "manyo-0001",
@@ -123098,9 +123102,9 @@
   "blocks": 4516,
   "chars": 153184,
   "poems": 4516,
-  "yaku": 0,
+  "yaku": 4516,
   "editions": 1,
   "updated": "2026-10-24",
-  "updated_at": "2026-10-24T13:40:06+09:00"
+  "updated_at": "2026-10-24T19:58:23+09:00"
  }
 }
