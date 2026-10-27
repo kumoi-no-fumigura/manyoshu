@@ -5,7 +5,12 @@
  "yomi": "まんようしゅう",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "和歌集",
+  "era": "奈良時代（8世紀後半）",
+  "author": "大伴家持らの編か",
+  "desc": "現存最古の和歌集。長歌・短歌など約四千五百首を二十巻に収める。ここの本文は鹿持雅澄の訓による。"
+ },
  "editions": [
   {
    "pid": "wikisource",
